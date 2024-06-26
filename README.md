@@ -1,22 +1,7 @@
 # FFUF-cookbook
 A cookbook for fuff tool
 
-![ffuf mascot](_img/ffuf_run_logo_600.png)
-# ffuf - Fuzz Faster U Fool
-
-A fast web fuzzer written in Go.
-
-- [Installation](https://github.com/ffuf/ffuf#installation)
-- [Example usage](https://github.com/ffuf/ffuf#example-usage)
-    - [Content discovery](https://github.com/ffuf/ffuf#typical-directory-discovery)
-    - [Vhost discovery](https://github.com/ffuf/ffuf#virtual-host-discovery-without-dns-records)
-    - [Parameter fuzzing](https://github.com/ffuf/ffuf#get-parameter-fuzzing)
-    - [POST data fuzzing](https://github.com/ffuf/ffuf#post-data-fuzzing)
-    - [Using external mutator](https://github.com/ffuf/ffuf#using-external-mutator-to-produce-test-cases)
-    - [Configuration files](https://github.com/ffuf/ffuf#configuration-files)
-- [Help](https://github.com/ffuf/ffuf#usage)
-    - [Interactive mode](https://github.com/ffuf/ffuf#interactive-mode)
-
+![image](https://github.com/Harshith5346/ffuf-cookbook/assets/107631448/15f88fc6-5d60-4042-ae5c-2fa21cd641ae)
 
 ## Installation
 
@@ -303,6 +288,3 @@ job from the beginning.
   <img width="250" src="_img/ffuf_waving_250.png">
 </p>
 
-## License
-
-ffuf is released under MIT license. See [LICENSE](https://github.com/ffuf/ffuf/blob/master/LICENSE).
